@@ -1,0 +1,13 @@
+1490122133435	Copy package
+1490122284229	Rename type 'Topic'
+1490122308604	Rename type 'TopicController'
+1490122339892	Rename type 'TopicRepository'
+1490122357716	Rename type 'TopicService'
+1490123825922	Encapsulate field 'first'
+1490123852973	Encapsulate field 'last'
+1490123861077	Encapsulate field 'major'
+1490123870187	Encapsulate field 'pool'
+1490123969600	Encapsulate field 'school'
+1490123977109	Encapsulate field 'graduation'
+1490123993130	Encapsulate field 'notes'
+1490124002194	Encapsulate field 'availability'

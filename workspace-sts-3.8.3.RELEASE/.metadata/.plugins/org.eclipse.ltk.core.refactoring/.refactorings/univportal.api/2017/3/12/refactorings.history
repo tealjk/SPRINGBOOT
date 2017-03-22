@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;univportal.api&apos;&#x0A;- Original project: &apos;univportal.api&apos;&#x0A;- Original element: &apos;univportal.api/src/main/java/univportal.api&apos;" description="Delete element" element1="/src\/main\/java&lt;univportal.api" element2="/src\/main\/java&lt;univportal" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1490101533252" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package io.javabrains.springbootstarter.student;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface TopicRepository extends CrudRepository<Student, String> {
+
+	
+	
+	
+	
+	
+	
+}
